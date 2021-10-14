@@ -1,8 +1,10 @@
 import json
+
 a = open ('data.json')
 data = json.load(a)
 
-print ('''
+print ('''  selamat datang
+vicky aditiya permadi
 1. melatih bot
 2. berbicara dengan bot
 ''')
